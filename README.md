@@ -1,5 +1,5 @@
 # ATM_Controller
-It a simple ATM controller.
+It is a code for a simple ATM.
 
 **`class ATM_Controller(object)`** <br>
 > Insert Card ➡️ Enter PIN Number ➡️ Select an Account ➡️ Check Balance/Deposit/Withdraw
@@ -22,7 +22,7 @@ It a simple ATM controller.
   - It asks if a customer needs another transaction.
   - If "YES", customer can continue another transaction; If "NO", the system is terminated. 
 
-## Run Python
+## Running the Project
 Clone this project and execute the file by running in the command line
 ``` 
 git clone https://github.com/kimsoojee/ATM_Controller.git
